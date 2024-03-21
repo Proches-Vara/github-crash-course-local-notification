@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+=======
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="android/app/src/main/res/drawable/launch_background.xml" value="0.17604166666666668" />
+        <entry key="android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.17604166666666668" />
+      </map>
+    </option>
+  </component>
+>>>>>>> feature-restructure
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
